@@ -26,5 +26,5 @@ Pour plus d'informations il y a mon [portfolio ](https://leothinnes.com/)😉
 
 ## <div align="center">Contact 📱 </div>
 
-✉️ Mail  : [thinnesleo@gmail.com](thinnesleo@gmail.com) </br>
+✉️ Mail  : [thinnesleo@gmail.com](mailto:thinnesleo@gmail.com) </br>
 #️⃣ Linkedin : [léo thinnès](https://www.linkedin.com/in/l%C3%A9o-thinn%C3%A8s-a395471ba/)
