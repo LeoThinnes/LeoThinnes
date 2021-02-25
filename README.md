@@ -11,12 +11,12 @@ Pour plus d'informations il y a mon [portfolio ](https://leothinnes.com/)😉
 
 ## <div align="center">Projets</div>
 
-[![Carte Spaceinvaders](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=spaceinvaders)](https://github.com/LeoThinnes/spaceinvaders)
-[![Carte Covoiturage](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Covoiturage)](https://github.com/LeoThinnes/Covoiturage)
-[![Carte Projet_PILAF](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Projet-Pilaf)](https://github.com/LeoThinnes/Projet-Pilaf)
-[![Carte Combava](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Combava)](https://github.com/LeoThinnes/Combava)
-[![Carte Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Portfolio)](https://github.com/LeoThinnes/Portfolio)
-[![Carte E-quarium](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=E-quarium,prs&theme=slateorange)](https://github.com/LeoThinnes/E-quarium)
+[![Carte Spaceinvaders](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=spaceinvaders&theme=slateorange&show_icons=true)](https://github.com/LeoThinnes/spaceinvaders)
+[![Carte Covoiturage](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Covoiturage&theme=slateorange&show_icons=true)](https://github.com/LeoThinnes/Covoiturage)
+[![Carte Projet_PILAF](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Projet-Pilaf&theme=slateorange&show_icons=true)](https://github.com/LeoThinnes/Projet-Pilaf)
+[![Carte Combava](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Combava&theme=slateorange&show_icons=true)](https://github.com/LeoThinnes/Combava)
+[![Carte Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Portfolio&theme=slateorange&show_icons=true)](https://github.com/LeoThinnes/Portfolio)
+[![Carte E-quarium](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=E-quarium&theme=slateorange&show_icons=true)](https://github.com/LeoThinnes/E-quarium)
 </br>
 
 ## <div align="center">Statistiques 📈</div>
