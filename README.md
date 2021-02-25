@@ -16,12 +16,12 @@ Pour plus d'informations il y a mon [portfolio ](https://leothinnes.com/)😉
 [![Carte Projet_PILAF](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Projet-Pilaf)](https://github.com/LeoThinnes/Projet-Pilaf)
 [![Carte Combava](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Combava)](https://github.com/LeoThinnes/Combava)
 [![Carte Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Portfolio)](https://github.com/LeoThinnes/Portfolio)
-[![Carte E-quarium](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=E-quarium)](https://github.com/LeoThinnes/E-quarium)
+[![Carte E-quarium](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=E-quarium,prs&theme=slateorange)](https://github.com/LeoThinnes/E-quarium)
 </br>
 
 ## <div align="center">Statistiques 📈</div>
-![Les Stats GitHub de LeoThinnes](https://github-readme-stats.vercel.app/api?username=LeoThinnes&hide=contribs&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoThinnes&layout=compact)
+![Les Stats GitHub de LeoThinnes](https://github-readme-stats.vercel.app/api?username=LeoThinnes&hide=contribs&show_icons=true,prs&theme=slateorange)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoThinnes&layout=compact,prs&theme=slateorange)
 <br><br>
 
 ## <div align="center">Contact 📱 </div>
