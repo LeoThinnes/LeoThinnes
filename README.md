@@ -20,8 +20,8 @@ Pour plus d'informations il y a mon [portfolio ](https://leothinnes.com/)😉
 </br>
 
 ## <div align="center">Statistiques 📈</div>
-![Les Stats GitHub de LeoThinnes](https://github-readme-stats.vercel.app/api?username=LeoThinnes&hide=contribs&show_icons=true,prs&theme=slateorange)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoThinnes&layout=compact,prs&theme=slateorange)
+![Les Stats GitHub de LeoThinnes](https://github-readme-stats.vercel.app/api?username=LeoThinnes&hide=contribs&show_icons=true,prs&theme=slateorange)
 <br><br>
 
 ## <div align="center">Contact 📱 </div>
