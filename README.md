@@ -11,7 +11,6 @@ Pour plus d'informations il y a mon [portfolio ](https://leothinnes.com/)😉
 
 ## <div align="center">Projets</div>
 
-[![Carte Spaceinvaders](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=spaceinvaders&theme=slateorange&show_icons=true)](https://github.com/LeoThinnes/spaceinvaders)
 [![Carte Covoiturage](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Covoiturage&theme=slateorange&show_icons=true)](https://github.com/LeoThinnes/Covoiturage)
 [![Carte Projet_PILAF](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Projet-Pilaf&theme=slateorange&show_icons=true)](https://github.com/LeoThinnes/Projet-Pilaf)
 [![Carte Combava](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Combava&theme=slateorange&show_icons=true)](https://github.com/LeoThinnes/Combava)
