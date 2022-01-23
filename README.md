@@ -12,10 +12,11 @@ Pour plus d'informations il y a mon [portfolio ](https://leothinnes.com/)😉
 ## <div align="center">Projets</div>
 
 [![Carte Covoiturage](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Covoiturage&theme=prussian&show_icons=true)](https://github.com/LeoThinnes/Covoiturage)
-[![Carte Projet_PILAF](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Projet-Pilaf&theme=prussian&show_icons=true)](https://github.com/LeoThinnes/Projet-Pilaf)
+[![Carte Refonte Graphique](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Projet-Pilaf&theme=prussian&show_icons=true)](https://github.com/LeoThinnes/RefonteGraphique)
 [![Carte Combava](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Combava&theme=prussian&show_icons=true)](https://github.com/LeoThinnes/Combava)
-[![Carte Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Portfolio&theme=prussian&show_icons=true)](https://github.com/LeoThinnes/Portfolio)
+[![Carte PortfolioV1](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=Portfolio&theme=prussian&show_icons=true)](https://github.com/LeoThinnes/PortfolioV1)
 [![Carte E-quarium](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=E-quarium&theme=prussian&show_icons=true)](https://github.com/LeoThinnes/E-quarium)
+[![Carte PortfolioV2](https://github-readme-stats.vercel.app/api/pin/?username=LeoThinnes&repo=E-quarium&theme=prussian&show_icons=true)](https://github.com/LeoThinnes/PortfolioV2)
 </br>
 
 ## <div align="center">Statistiques 📈</div>
