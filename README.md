@@ -27,7 +27,6 @@ Pour plus d'informations il y a mon [portfolio ](https://leothinnes.github.io/Po
   ![Les Stats GitHub de LeoThinnes](https://github-readme-stats.vercel.app/api?username=LeoThinnes&hide=contribs&show_icons=true,prs&theme=prussian)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoThinnes&layout=compact&prs&theme=prussian)
 
-  ![Profile views](https://komarev.com/ghpvc/?username=LeoThinnes&color=blue&label=Vues+du+profil)
   <br><br>
 </div>
 
@@ -36,3 +35,7 @@ Pour plus d'informations il y a mon [portfolio ](https://leothinnes.github.io/Po
 
 ✉️ Mail  : [thinnesleo@gmail.com](mailto:thinnesleo@gmail.com) </br>
 #️⃣ Linkedin : [léo thinnès](https://www.linkedin.com/in/l%C3%A9o-thinn%C3%A8s-a395471ba/)
+
+
+
+  ![Profile views](https://komarev.com/ghpvc/?username=LeoThinnes&color=blue&label=Vues+du+profil)
