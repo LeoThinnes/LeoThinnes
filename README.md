@@ -3,7 +3,8 @@
 ## <div align="center">Profil </div>
 <br/>
 
-Actuellement étudiant en Licence Professionelle de développement d'applications mobiles et IOT, je suis quelqu'un qui aime apprendre de nouvelles choses tout le temps. La création d'applications mobiles est quelque chose qui me plait énormément, de la phase d'idéation et de prototypage du produit jusqu'à son développement. Le travail en équipe est quelque chose que j'apprécie beaucoup, mais je suis également capable de mener un projet seul. 🖥️
+Étudiant en Master expert en développement logiciel mobile & IOT, je suis passionné par le domaine informatique. Qu'il s'agisse de la partie d'idéation d'une application, l'UX et l'UI ou même la partie développement, je trouve cela très intéressant ce qui me pousse à développer mes connaissances sur ces sujets tout le temps.
+De plus, du fait de mes études et de mon alternance en cours, je sais aussi bien travailler en groupe que mener un projet seul et suis apte à travailler dans un contexte professionnel.  🖥️
 
 Pour plus d'informations il y a mon [portfolio ](https://leothinnes.github.io/PortfolioV2/)😉
 
